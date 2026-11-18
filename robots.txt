@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://halal-dining-tips-au.pages.dev/sitemap.xml
